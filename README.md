@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## My Projects
 
-You can use the [editor on GitHub](https://github.com/andre23arruda/my-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this page I am putting some hobby projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am just learning about JS, HTML and CSS.
+
 
 ### Markdown
 
