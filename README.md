@@ -5,33 +5,21 @@ In this page I am putting some hobby projects.
 I am just learning about JS, HTML and CSS.
 
 
-### Markdown
+### Calculator
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link](https://andre23arruda.github.io/calculator/)
 
-```markdown
-Syntax highlighted code block
+### Alarm
 
-# Header 1
-## Header 2
-### Header 3
+[Link](https://andre23arruda.github.io/timer/)
 
-- Bulleted
-- List
+### Clock
 
-1. Numbered
-2. List
+[Link](https://andre23arruda.github.io/clock/)
 
-**Bold** and _Italic_ and `Code` text
+### Cronometer
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andre23arruda/my-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Link](https://andre23arruda.github.io/cronometer/)
 
 ### Support or Contact
 
